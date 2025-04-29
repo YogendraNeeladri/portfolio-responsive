@@ -1,3 +1,3 @@
 
 # Portfolio Responsive Complete
-https://yoendraportfolio.netlify.app/
+https://yogendraportfoli.netlify.app/
